@@ -2304,5 +2304,10 @@ msg=HelloService#hello#你好 dubbo~~
 ```
 
 ---
-说明：学习视频地址：https://www.bilibili.com/video/BV1DJ411m7NR?p=1
-自己整理的源码地址：
+说明：
+
+学习视频地址：https://www.bilibili.com/video/BV1DJ411m7NR?p=1
+
+自己整理的源码地址：https://github.com/paopaolx/Netty-learn/tree/main/netty
+
+笔记文档部分内容参考：https://blog.csdn.net/youth_lql/category_10959696.html
